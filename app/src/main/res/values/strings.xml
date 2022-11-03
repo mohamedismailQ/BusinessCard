@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="name">Mohamed Ismail</string>
+    <string name="jop_title">Android Developer</string>
+    <string name="email">mohamedismailba9@gmail.com</string>
+    <string name="phone_number">0201061984028</string>
+    <string name="github_account">github.com/mohamedismailQ</string>
+</resources>
